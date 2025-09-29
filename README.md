@@ -5,7 +5,13 @@
 I design and develop **modern, responsive, and performant web applications** using **JavaScript, TypeScript, React, Next.js, and Node.js**.  
 Previously, I co-founded **HYPERBAY**, where I worked on scalable full stack applications and integrations.  
 
-Outside of coding, I enjoy exploring **machine learning projects** and tinkering with **Arduino hardware builds**.  
+Beyond coding, I **collaborate directly with clients** to:
+- Analyze business needs and translate them into technical solutions  
+- Help choose the right applications, systems, and integrations  
+- Balance features, budgets, and long-term scalability  
+- Guide teams on improving performance, SEO, and security  
+
+Outside of work, I enjoy experimenting with **machine learning projects** and building fun hardware with **Arduino**.  
 
 ---
 
@@ -28,7 +34,7 @@ Outside of coding, I enjoy exploring **machine learning projects** and tinkering
 
 ### [🏋️ Manufaktura – Training Management System](https://gymproject-client.vercel.app)
 - Platform for managing fitness classes, memberships, and client communications  
-- Features: user auth, class scheduling, enrollment, SMS notifications  
+- Features: user authentication, class scheduling, enrollment, SMS notifications  
 - **Stack:** React, Node.js, MongoDB  
 
 ---
@@ -36,7 +42,7 @@ Outside of coding, I enjoy exploring **machine learning projects** and tinkering
 ### [💳 Allegro API Integration](#)
 - Quick product listing & management  
 - Real-time order processing & inventory sync  
-- Collaboration features  
+- Collaboration tools  
 
 ---
 
