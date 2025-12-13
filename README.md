@@ -54,7 +54,7 @@ Outside of work, I enjoy experimenting with **machine learning projects** and bu
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jakubSerok&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jakubSerok&theme=tokyonight&hide_border=true&v=2" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubSerok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
