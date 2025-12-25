@@ -56,14 +56,11 @@ A comprehensive platform for managing fitness classes, memberships, and client c
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <a href="https://github.com/jakubSerok">
-    <img src="https://streak-stats.demolab.com?user=jakubSerok&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/jakubSerok">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubSerok&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jakubSerok&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubSerok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
